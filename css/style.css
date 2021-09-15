@@ -1,0 +1,19 @@
+body{
+    background-image: url(../imgs/Your\ Name_\ Papel\ de\ Parede\ HD\ _\ Plano\ de\ Fundo\ _\ 3000x2000\ _\ ID_753378.jfif);
+    background-size: cover;
+}
+div {
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    background-color: black;
+    
+}
+
+article{
+    color: rgb(233, 233, 233);
+
+}
